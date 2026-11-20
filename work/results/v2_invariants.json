@@ -1,0 +1,83 @@
+{
+ "configs": [
+  {
+   "tau": 20,
+   "M": 3,
+   "policy": "weighted",
+   "proc_dist": "exp",
+   "iterations": 5006,
+   "violations": 0
+  },
+  {
+   "tau": 14,
+   "M": 3,
+   "policy": "weighted",
+   "proc_dist": "exp",
+   "iterations": 7140,
+   "violations": 0
+  },
+  {
+   "tau": 12,
+   "M": 3,
+   "policy": "priority",
+   "proc_dist": "exp",
+   "iterations": 7601,
+   "violations": 0
+  },
+  {
+   "tau": 8,
+   "M": 3,
+   "policy": "random",
+   "proc_dist": "exp",
+   "iterations": 8963,
+   "violations": 0
+  },
+  {
+   "tau": 10,
+   "M": 3,
+   "policy": "priority",
+   "proc_dist": "exp",
+   "iterations": 8048,
+   "violations": 0
+  },
+  {
+   "tau": 20,
+   "M": 4,
+   "policy": "priority3",
+   "proc_dist": "exp",
+   "iterations": 4995,
+   "violations": 0
+  },
+  {
+   "tau": 14,
+   "M": 2,
+   "policy": "weighted",
+   "proc_dist": "exp",
+   "iterations": 5928,
+   "violations": 0
+  },
+  {
+   "tau": 30,
+   "M": 5,
+   "policy": "random",
+   "proc_dist": "exp",
+   "iterations": 3326,
+   "violations": 0
+  },
+  {
+   "tau": 20,
+   "M": 3,
+   "policy": "weighted",
+   "proc_dist": "det",
+   "iterations": 4673,
+   "violations": 0
+  }
+ ],
+ "total_iterations_checked": 55680,
+ "all_ok": true,
+ "tamper_detected": {
+  "зайвий вільний верстат": true,
+  "зникла заготовка": true,
+  "зайвий виріб": true
+ }
+}

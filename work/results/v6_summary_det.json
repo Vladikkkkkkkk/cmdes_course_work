@@ -1,0 +1,11 @@
+{
+ "proc_dist": "det",
+ "n_runs": 30,
+ "t_warm": 27000.0,
+ "t_stat": 200000.0,
+ "n_comparisons": 42,
+ "n_p_below_005": 3,
+ "expected_by_chance": 2.1,
+ "min_p": 0.0008630772813591502,
+ "n_ci_overlap": 41
+}
